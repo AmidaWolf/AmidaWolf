@@ -2,7 +2,7 @@
 <h2 align="center">A Frontend developer (React) from Belarus, Mogilev</h3>
 
 # 📂About me:
-Start programming in 2019 after studying at <a href="https://rs.school/" target="blank">RSSchool</a> (JS+React). Worked as a freelance web developer within a team of backend developer, designer and team leader. In 2022, I upgraded my skills at RS School (<a href="https://app.rs.school/certificate/tn7crqcd" target="blank">JavaScript/TypeScript</a>, <a href="https://app.rs.school/certificate/bupdbh09" target="blank">React v18+</a>). Total experience 1.5 years. In high priority, looking for a full-time remote work.  
+Start programming in 2019 after studying at <a href="https://rs.school/" target="blank">RSSchool</a> (JS+React). Worked as a freelance web developer within a team of backend developer, designer and team leader. In 2022, I upgraded my skills at RS School (<a href="https://app.rs.school/certificate/tn7crqcd" target="blank">JavaScript/TypeScript</a>, <a href="https://app.rs.school/certificate/bupdbh09" target="blank">React v18+</a>). Total experience 3 years. In high priority, looking for a full-time remote work.  
 English level: <a href="https://www.efset.org/cert/Ra48Ur" target="blank">A2+</a>.
 
 # 💫About my projects:
