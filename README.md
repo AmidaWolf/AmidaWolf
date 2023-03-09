@@ -10,8 +10,6 @@ English level: <a href="https://www.efset.org/cert/Ra48Ur" target="blank">A2+</a
 
 - [RSLang](https://rslang-amidawolf.netlify.app/) - is a web app for learning basic English words. The project uses JS, TypeScript, SCSS, webpack.
 
-- 👨‍💻 All of my projects and full info about me are available at: [https://awportfolio-site.netlify.app/](https://awportfolio-site.netlify.app/)
-
 - 📄 My CV: [https://app.rs.school/cv/47d6664e-aad2-4312-80ec-760719fd196b](https://app.rs.school/cv/47d6664e-aad2-4312-80ec-760719fd196b)
 
 # 💻Tech Stack:
